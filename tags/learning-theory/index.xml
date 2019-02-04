@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Learning Theory on Michaël Perrot</title>
+    <title>Learning theory on Michaël Perrot</title>
     <link>https://mperrot.github.io/tags/learning-theory/</link>
-    <description>Recent content in Learning Theory on Michaël Perrot</description>
+    <description>Recent content in Learning theory on Michaël Perrot</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jul 2015 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://mperrot.github.io/tags/learning-theory/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>A Theoretical Analysis of Metric Hypothesis Transfer Learning</title>
-      <link>https://mperrot.github.io/publication/metric-hypothesis-transfer-learning/</link>
-      <pubDate>Wed, 01 Jul 2015 00:00:00 +0200</pubDate>
+      <title>Foundations of Comparison-Based Hierarchical Clustering</title>
+      <link>https://mperrot.github.io/publication/comparison-based-hierarchical-clustering/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://mperrot.github.io/publication/metric-hypothesis-transfer-learning/</guid>
-      <description> </description>
+      <guid>https://mperrot.github.io/publication/comparison-based-hierarchical-clustering/</guid>
+      <description></description>
     </item>
     
   </channel>
