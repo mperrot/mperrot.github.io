@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Michaël Perrot</title>
+    <link>https://mperrot.github.io/authors/</link>
+    <description>Recent content in Authors on Michaël Perrot</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Dec 2016 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://mperrot.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Amaury Habrard</title>
+      <link>https://mperrot.github.io/authors/amaury-habrard/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://mperrot.github.io/authors/amaury-habrard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Damien Muselet</title>
+      <link>https://mperrot.github.io/authors/damien-muselet/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0200</pubDate>
+      
+      <guid>https://mperrot.github.io/authors/damien-muselet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Debarghya Ghoshdastidar</title>
+      <link>https://mperrot.github.io/authors/debarghya-ghoshdastidar/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://mperrot.github.io/authors/debarghya-ghoshdastidar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leonor Becerra-Bonache</title>
+      <link>https://mperrot.github.io/authors/leonor-becerra-bonache/</link>
+      <pubDate>Sat, 01 Sep 2012 00:00:00 +0200</pubDate>
+      
+      <guid>https://mperrot.github.io/authors/leonor-becerra-bonache/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marc Sebban</title>
+      <link>https://mperrot.github.io/authors/marc-sebban/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0200</pubDate>
+      
+      <guid>https://mperrot.github.io/authors/marc-sebban/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michaël Perrot</title>
+      <link>https://mperrot.github.io/authors/micha%C3%ABl-perrot/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://mperrot.github.io/authors/micha%C3%ABl-perrot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nicolas Courty</title>
+      <link>https://mperrot.github.io/authors/nicolas-courty/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://mperrot.github.io/authors/nicolas-courty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rémi Flamary</title>
+      <link>https://mperrot.github.io/authors/r%C3%A9mi-flamary/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://mperrot.github.io/authors/r%C3%A9mi-flamary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ulrike von Luxburg</title>
+      <link>https://mperrot.github.io/authors/ulrike-von-luxburg/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://mperrot.github.io/authors/ulrike-von-luxburg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Élisa Fromont</title>
+      <link>https://mperrot.github.io/authors/%C3%A9lisa-fromont/</link>
+      <pubDate>Sat, 01 Sep 2012 00:00:00 +0200</pubDate>
+      
+      <guid>https://mperrot.github.io/authors/%C3%A9lisa-fromont/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

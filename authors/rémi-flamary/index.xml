@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rémi Flamary on Michaël Perrot</title>
+    <link>https://mperrot.github.io/authors/r%C3%A9mi-flamary/</link>
+    <description>Recent content in Rémi Flamary on Michaël Perrot</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Dec 2016 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://mperrot.github.io/authors/r%C3%A9mi-flamary/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mapping Estimation for Discrete Optimal Transport</title>
+      <link>https://mperrot.github.io/publication/mapping-estimation-optimal-transport/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://mperrot.github.io/publication/mapping-estimation-optimal-transport/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

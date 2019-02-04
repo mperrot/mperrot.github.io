@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on Michaël Perrot</title>
+    <link>https://mperrot.github.io/publication_types/1/</link>
+    <description>Recent content in 1 on Michaël Perrot</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Dec 2016 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://mperrot.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mapping Estimation for Discrete Optimal Transport</title>
+      <link>https://mperrot.github.io/publication/mapping-estimation-optimal-transport/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://mperrot.github.io/publication/mapping-estimation-optimal-transport/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regressive Virtual Metric Learning</title>
+      <link>https://mperrot.github.io/publication/regressive-virtual-metric-learning/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0100</pubDate>
+      
+      <guid>https://mperrot.github.io/publication/regressive-virtual-metric-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Theoretical Analysis of Metric Hypothesis Transfer Learning</title>
+      <link>https://mperrot.github.io/publication/metric-hypothesis-transfer-learning/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0200</pubDate>
+      
+      <guid>https://mperrot.github.io/publication/metric-hypothesis-transfer-learning/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Modeling Perceptual Color Differences by Local Metric Learning</title>
+      <link>https://mperrot.github.io/publication/perceptual-color-learning/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0200</pubDate>
+      
+      <guid>https://mperrot.github.io/publication/perceptual-color-learning/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Speeding Up Syntactic Learning using Contextual Information</title>
+      <link>https://mperrot.github.io/publication/speeding-up-syntactic-learning/</link>
+      <pubDate>Sat, 01 Sep 2012 00:00:00 +0200</pubDate>
+      
+      <guid>https://mperrot.github.io/publication/speeding-up-syntactic-learning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
