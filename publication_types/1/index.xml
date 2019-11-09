@@ -6,10 +6,28 @@
     <description>Recent content in 1 on Michaël Perrot</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Dec 2016 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 08 Nov 2019 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://mperrot.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Foundations of Comparison-Based Hierarchical Clustering</title>
+      <link>https://mperrot.github.io/publication/comparison-based-hierarchical-clustering/</link>
+      <pubDate>Fri, 08 Nov 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://mperrot.github.io/publication/comparison-based-hierarchical-clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Boosting for Comparison-Based Learning</title>
+      <link>https://mperrot.github.io/publication/boosting-comparison-based-learning/</link>
+      <pubDate>Tue, 13 Aug 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://mperrot.github.io/publication/boosting-comparison-based-learning/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Mapping Estimation for Discrete Optimal Transport</title>
