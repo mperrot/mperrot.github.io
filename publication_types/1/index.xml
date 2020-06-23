@@ -6,10 +6,19 @@
     <description>Recent content in 1 on Michaël Perrot</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 Nov 2019 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2020 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://mperrot.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Too Relaxed to be Fair</title>
+      <link>https://mperrot.github.io/publication/too-relaxed-to-be-fair/</link>
+      <pubDate>Tue, 23 Jun 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://mperrot.github.io/publication/too-relaxed-to-be-fair/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Foundations of Comparison-Based Hierarchical Clustering</title>
