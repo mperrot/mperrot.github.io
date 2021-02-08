@@ -4,7 +4,7 @@
     <url>
     
       <loc>https://mperrot.github.io/publication_types/1/</loc>
-      <lastmod>2020-06-23T00:00:00+02:00</lastmod>
+      <lastmod>2020-11-08T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -12,8 +12,17 @@
     
     <url>
     
-      <loc>https://mperrot.github.io/tags/fairness/</loc>
-      <lastmod>2020-06-23T00:00:00+02:00</lastmod>
+      <loc>https://mperrot.github.io/tags/comparison-based-learning/</loc>
+      <lastmod>2020-11-08T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mperrot.github.io/tags/hierarchical-clustering/</loc>
+      <lastmod>2020-11-08T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -22,7 +31,7 @@
     <url>
     
       <loc>https://mperrot.github.io/tags/learning-theory/</loc>
-      <lastmod>2020-06-23T00:00:00+02:00</lastmod>
+      <lastmod>2020-11-08T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -31,6 +40,23 @@
     <url>
     
       <loc>https://mperrot.github.io/</loc>
+      <lastmod>2020-11-08T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mperrot.github.io/publication/near-optimal-comparison-based-clustering/</loc>
+      <lastmod>2020-11-08T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mperrot.github.io/tags/fairness/</loc>
       <lastmod>2020-06-23T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -47,26 +73,8 @@
     
     <url>
     
-      <loc>https://mperrot.github.io/tags/comparison-based-learning/</loc>
-      <lastmod>2019-02-04T16:22:41+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://mperrot.github.io/publication/comparison-based-hierarchical-clustering/</loc>
       <lastmod>2019-02-04T16:22:41+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://mperrot.github.io/tags/hierarchical-clustering/</loc>
-      <lastmod>2019-02-04T16:22:41+01:00</lastmod>
-      <priority>0</priority>
     </url>
     
   

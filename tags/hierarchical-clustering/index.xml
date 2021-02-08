@@ -6,10 +6,19 @@
     <description>Recent content in Hierarchical clustering on Michaël Perrot</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 Nov 2019 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2020 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://mperrot.github.io/tags/hierarchical-clustering/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Near-Optimal Comparison Based Clustering</title>
+      <link>https://mperrot.github.io/publication/near-optimal-comparison-based-clustering/</link>
+      <pubDate>Sun, 08 Nov 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://mperrot.github.io/publication/near-optimal-comparison-based-clustering/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Foundations of Comparison-Based Hierarchical Clustering</title>

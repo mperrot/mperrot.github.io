@@ -5,8 +5,17 @@
     <description>Recent content in Michaël Perrot on Michaël Perrot</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Jun 2020 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2020 00:00:00 +0100</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Near-Optimal Comparison Based Clustering</title>
+      <link>https://mperrot.github.io/publication/near-optimal-comparison-based-clustering/</link>
+      <pubDate>Sun, 08 Nov 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://mperrot.github.io/publication/near-optimal-comparison-based-clustering/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Too Relaxed to be Fair</title>
